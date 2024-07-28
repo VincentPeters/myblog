@@ -1,0 +1,4 @@
+baseURL: https://blog.vincentpeters.be/
+languageCode: en-us
+title: Vinnies blog
+theme: ["PaperMod"]
